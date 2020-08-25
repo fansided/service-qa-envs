@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "meta": { "resultsCount": 12 },
+  "data": [
+    { "date": "2020-08-01", "views": 122, "tier": "2" },
+    { "date": "2020-08-01", "views": 1276, "tier": "1" },
+    { "date": "2020-08-01", "views": 42, "tier": "3" },
+    { "date": "2020-08-02", "views": 135, "tier": "2" },
+    { "date": "2020-08-02", "views": 65, "tier": "3" },
+    { "date": "2020-08-02", "views": 1814, "tier": "1" },
+    { "date": "2020-08-03", "views": 134, "tier": "2" },
+    { "date": "2020-08-03", "views": 2705, "tier": "1" },
+    { "date": "2020-08-03", "views": 59, "tier": "3" },
+    { "date": "2020-08-04", "views": 153, "tier": "2" },
+    { "date": "2020-08-04", "views": 40, "tier": "3" },
+    { "date": "2020-08-04", "views": 1136, "tier": "1" }
+  ]
+}

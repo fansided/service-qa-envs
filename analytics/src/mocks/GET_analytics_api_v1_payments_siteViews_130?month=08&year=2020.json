@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "meta": { "resultsCount": 4 },
+  "data": [
+    {
+      "siteId": 130,
+      "hostname": "arrowheadaddict.com",
+      "siteViews": 1804542,
+      "country": "United States"
+    },
+    {
+      "siteId": 130,
+      "hostname": "arrowheadaddict.com",
+      "siteViews": 14064,
+      "country": "United Kingdom"
+    },
+    {
+      "siteId": 130,
+      "hostname": "arrowheadaddict.com",
+      "siteViews": 500,
+      "country": "Canada"
+    },
+    {
+      "siteId": 130,
+      "hostname": "arrowheadaddict.com",
+      "siteViews": 9454,
+      "country": "Nigeria"
+    }
+  ]
+}

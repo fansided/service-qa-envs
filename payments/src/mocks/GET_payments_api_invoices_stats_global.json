@@ -1,0 +1,92 @@
+{
+  "2019-03-01": [{ "date": "2019-03-01", "status": "paid", "invoices": 20, "amount": 1995.6500000000003 }],
+  "2019-04-01": [
+    { "date": "2019-04-01", "status": "error", "invoices": 115, "amount": 1397.4200000000003 },
+    { "date": "2019-04-01", "status": "flagged", "invoices": 1, "amount": 5.63 },
+    { "date": "2019-04-01", "status": "ineligible", "invoices": 68, "amount": 7306.1 },
+    { "date": "2019-04-01", "status": "paid", "invoices": 1456, "amount": 223421.00999999978 }
+  ],
+  "2019-05-01": [
+    { "date": "2019-05-01", "status": "error", "invoices": 68, "amount": 427.80999999999983 },
+    { "date": "2019-05-01", "status": "flagged", "invoices": 1, "amount": 801.45 },
+    { "date": "2019-05-01", "status": "ineligible", "invoices": 55, "amount": 35.76 },
+    { "date": "2019-05-01", "status": "paid", "invoices": 1542, "amount": 245820.40999999977 }
+  ],
+  "2019-06-01": [
+    { "date": "2019-06-01", "status": "error", "invoices": 60, "amount": 537.31 },
+    { "date": "2019-06-01", "status": "flagged", "invoices": 3, "amount": 62 },
+    { "date": "2019-06-01", "status": "ineligible", "invoices": 53, "amount": 1.63 },
+    { "date": "2019-06-01", "status": "paid", "invoices": 1311, "amount": 251929.51999999996 }
+  ],
+  "2019-07-01": [
+    { "date": "2019-07-01", "status": "audited", "invoices": 10, "amount": 75 },
+    { "date": "2019-07-01", "status": "error", "invoices": 63, "amount": 318.57999999999987 },
+    { "date": "2019-07-01", "status": "ineligible", "invoices": 60, "amount": 212.35000000000002 },
+    { "date": "2019-07-01", "status": "paid", "invoices": 1191, "amount": 274214.46000000037 }
+  ],
+  "2019-08-01": [
+    { "date": "2019-08-01", "status": "error", "invoices": 68, "amount": 629.77 },
+    { "date": "2019-08-01", "status": "flagged", "invoices": 3, "amount": 1770.97 },
+    { "date": "2019-08-01", "status": "ineligible", "invoices": 52, "amount": 110 },
+    { "date": "2019-08-01", "status": "paid", "invoices": 1266, "amount": 233792.78000000003 }
+  ],
+  "2019-09-01": [
+    { "date": "2019-09-01", "status": "error", "invoices": 61, "amount": 505.4599999999999 },
+    { "date": "2019-09-01", "status": "flagged", "invoices": 4, "amount": 40.94 },
+    { "date": "2019-09-01", "status": "ineligible", "invoices": 42, "amount": 0 },
+    { "date": "2019-09-01", "status": "paid", "invoices": 1343, "amount": 225197.97999999975 },
+    { "date": "2019-09-01", "status": "processing", "invoices": 1, "amount": 125 }
+  ],
+  "2019-10-01": [
+    { "date": "2019-10-01", "status": "error", "invoices": 94, "amount": 746.2399999999999 },
+    { "date": "2019-10-01", "status": "flagged", "invoices": 6, "amount": 2323.24 },
+    { "date": "2019-10-01", "status": "ineligible", "invoices": 37, "amount": 0 },
+    { "date": "2019-10-01", "status": "paid", "invoices": 1476, "amount": 243896.0899999997 },
+    { "date": "2019-10-01", "status": "processing", "invoices": 1, "amount": 200 }
+  ],
+  "2019-11-01": [
+    { "date": "2019-11-01", "status": "error", "invoices": 90, "amount": 609.1200000000002 },
+    { "date": "2019-11-01", "status": "flagged", "invoices": 5, "amount": 3043.24 },
+    { "date": "2019-11-01", "status": "ineligible", "invoices": 35, "amount": 0 },
+    { "date": "2019-11-01", "status": "paid", "invoices": 1390, "amount": 224320.73999999987 }
+  ],
+  "2019-12-01": [
+    { "date": "2019-12-01", "status": "error", "invoices": 82, "amount": 1152.6399999999999 },
+    { "date": "2019-12-01", "status": "flagged", "invoices": 2, "amount": 40.48 },
+    { "date": "2019-12-01", "status": "ineligible", "invoices": 35, "amount": 0 },
+    { "date": "2019-12-01", "status": "paid", "invoices": 1400, "amount": 272429.1100000003 },
+    { "date": "2019-12-01", "status": "processing", "invoices": 3, "amount": 69.02 }
+  ],
+  "2020-01-01": [
+    { "date": "2020-01-01", "status": "error", "invoices": 86, "amount": 1174.3800000000003 },
+    { "date": "2020-01-01", "status": "flagged", "invoices": 2, "amount": 1237.69 },
+    { "date": "2020-01-01", "status": "ineligible", "invoices": 34, "amount": 0 },
+    { "date": "2020-01-01", "status": "paid", "invoices": 1429, "amount": 309516.01000000007 },
+    { "date": "2020-01-01", "status": "processing", "invoices": 2, "amount": 2.66 }
+  ],
+  "2020-02-01": [
+    { "date": "2020-02-01", "status": "error", "invoices": 73, "amount": 643.2699999999998 },
+    { "date": "2020-02-01", "status": "flagged", "invoices": 11, "amount": 2624.0299999999997 },
+    { "date": "2020-02-01", "status": "ineligible", "invoices": 36, "amount": 0 },
+    { "date": "2020-02-01", "status": "paid", "invoices": 1469, "amount": 237122.5999999999 },
+    { "date": "2020-02-01", "status": "processing", "invoices": 3, "amount": 130.70999999999998 }
+  ],
+  "2020-03-01": [
+    { "date": "2020-03-01", "status": "approved", "invoices": 3, "amount": 4.22 },
+    { "date": "2020-03-01", "status": "error", "invoices": 127, "amount": 2007.2799999999995 },
+    { "date": "2020-03-01", "status": "flagged", "invoices": 1, "amount": 12 },
+    { "date": "2020-03-01", "status": "ineligible", "invoices": 43, "amount": 51.36 },
+    { "date": "2020-03-01", "status": "paid", "invoices": 1466, "amount": 224558.77999999953 },
+    { "date": "2020-03-01", "status": "pending", "invoices": 1, "amount": 0 },
+    { "date": "2020-03-01", "status": "processing", "invoices": 13, "amount": 106.02000000000001 }
+  ],
+  "2020-04-01": [
+    { "date": "2020-04-01", "status": "flagged", "invoices": 2, "amount": 25 },
+    { "date": "2020-04-01", "status": "pending", "invoices": 2, "amount": 13.46 }
+  ],
+  "2020-05-01": [
+    { "date": "2020-05-01", "status": "audited", "invoices": 1, "amount": 1 },
+    { "date": "2020-05-01", "status": "export", "invoices": 1, "amount": 2 },
+    { "date": "2020-05-01", "status": "flagged", "invoices": 1, "amount": 1 }
+  ]
+}

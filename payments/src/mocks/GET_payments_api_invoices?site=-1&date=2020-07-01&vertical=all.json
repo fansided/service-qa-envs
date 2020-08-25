@@ -1,0 +1,339 @@
+[
+  {
+    "id": 3311,
+    "type": "expert",
+    "name": "Chris Schad",
+    "userId": 21834,
+    "username": "cschad",
+    "views": 137484,
+    "payAmount": 191.23,
+    "override": null,
+    "date": "2019-06-01",
+    "status": "paid",
+    "vendorId": "109838",
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "split_site_views",
+    "publishCount": 51,
+    "sitePublishCount": 77,
+    "confirmationNumber": null,
+    "confirmationDate": null,
+    "createdAt": 1561999185,
+    "updatedAt": 1564155910,
+    "paymentModel": "nonpc",
+    "siteViews": 218554,
+    "workmarketId": "79322295",
+    "payoutId": 1732
+  },
+  {
+    "id": 20362,
+    "type": "site_expert",
+    "name": "Otto Johnson",
+    "userId": "auth0|5eba05e4a4e4902024e44319",
+    "username": "ojohnson",
+    "views": 19213,
+    "payAmount": 19.21,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "pending",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 23,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": [
+      {
+        "type": "system",
+        "body": "Tier 1 total: $19.21\nTier 2 total: $0.00\nTier 3 total: $0.00",
+        "createdAt": 1596833998
+      },
+      {
+        "type": "system",
+        "body": "User is a site expert but the invoice was processed as a contributor due to the site have less than 50 posts published",
+        "createdAt": 1596833998
+      }
+    ],
+    "postStats": [
+      {
+        "title": "Minnesota Twins Top 30 Prospects Post-MLB Draft",
+        "url": "https://puckettspond.com/?p=65663",
+        "views": 3208
+      },
+      {
+        "title": "Minnesota Twins: Updates on Byron Buxton's Health and Rich Hill's Option",
+        "url": "https://puckettspond.com/?p=65812",
+        "views": 2177
+      },
+      {
+        "title": "Ranking the 9 Opponents the Minnesota Twins face in 2020",
+        "url": "https://puckettspond.com/?p=65689",
+        "views": 1819
+      },
+      {
+        "title": "After just One Game, The Minnesota Twins' Strengths are Clear",
+        "url": "https://puckettspond.com/?p=65877",
+        "views": 1522
+      },
+      {
+        "title": "Winners and Losers from the Minnesota Twins Exhibition Game",
+        "url": "https://puckettspond.com/?p=65862",
+        "views": 1242
+      },
+      {
+        "title": "Redrafting every Minnesota Twins First Round Pick from the 1990s",
+        "url": "https://puckettspond.com/?p=65876",
+        "views": 650
+      },
+      {
+        "title": "5 Minnesota Twins Prospects that will miss the MiLB Season Most",
+        "url": "https://puckettspond.com/?p=65781",
+        "views": 606
+      },
+      {
+        "title": "Redrafting every Minnesota Twins First Round Pick from the 1970s",
+        "url": "https://puckettspond.com/?p=65835",
+        "views": 590
+      },
+      {
+        "title": "3 Reasons Byron Buxton is the Minnesota Twins' Franchise Player",
+        "url": "https://puckettspond.com/?p=65729",
+        "views": 557
+      },
+      {
+        "title": "The Minnesota Twins must trade for an ace to win a World Series",
+        "url": "https://puckettspond.com/?p=65911",
+        "views": 536
+      }
+    ]
+  },
+  {
+    "id": 20363,
+    "type": "contributor",
+    "name": "Greg Simbeck",
+    "userId": "auth0|5eba0200484fbd1fad6ad5ef",
+    "username": "gsimbeck",
+    "views": 983,
+    "payAmount": 0.98,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "pending",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 3,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": [
+      {
+        "type": "system",
+        "body": "Tier 1 total: $0.98\nTier 2 total: $0.00\nTier 3 total: $0.00",
+        "createdAt": 1596833998
+      }
+    ],
+    "postStats": [
+      {
+        "title": "Minnesota Twins' All-1960s Roster: Lineup and Bench",
+        "url": "https://puckettspond.com/?p=65719",
+        "views": 412
+      },
+      {
+        "title": "The Minnesota Twins All-1960's Roster: The Pitchers",
+        "url": "https://puckettspond.com/?p=65836",
+        "views": 330
+      },
+      {
+        "title": "Will the Minnesota Twins Play a Full Season in 2020?",
+        "url": "https://puckettspond.com/?p=65908",
+        "views": 241
+      }
+    ]
+  },
+  {
+    "id": 20364,
+    "type": "contributor",
+    "name": "Billy Porter",
+    "userId": "auth0|5eba057aa4e4902024e43ef6",
+    "username": "bporter2",
+    "views": 1216,
+    "payAmount": 1.22,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "pending",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 3,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": [
+      {
+        "type": "system",
+        "body": "Tier 1 total: $1.22\nTier 2 total: $0.00\nTier 3 total: $0.00",
+        "createdAt": 1596833998
+      }
+    ],
+    "postStats": [
+      {
+        "title": "Minnesota Twins: A Team Built for Short Season Success",
+        "url": "https://puckettspond.com/?p=65709",
+        "views": 581
+      },
+      {
+        "title": "Minnesota Twins: Byron Buxton is absolutely worth the injury troubles",
+        "url": "https://puckettspond.com/?p=65830",
+        "views": 431
+      },
+      {
+        "title": "Minnesota Twins: The Good, the Bad and the OK From Opening Weekend",
+        "url": "https://puckettspond.com/?p=65887",
+        "views": 204
+      }
+    ]
+  },
+  {
+    "id": 20365,
+    "type": "contributor",
+    "name": "CJ Baumgartner",
+    "userId": "auth0|5f0621840178240015072eee",
+    "username": "cbaumgartner",
+    "views": 0,
+    "payAmount": 0,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "ineligible",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 0,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": null,
+    "postStats": null
+  },
+  {
+    "id": 20366,
+    "type": "contributor",
+    "name": "Gino Terrell",
+    "userId": "auth0|5eba0236484fbd1fad6ad80b",
+    "username": "gterrell",
+    "views": 259,
+    "payAmount": 0.26,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "pending",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 1,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": [
+      {
+        "type": "system",
+        "body": "Tier 1 total: $0.26\nTier 2 total: $0.00\nTier 3 total: $0.00",
+        "createdAt": 1596833998
+      }
+    ],
+    "postStats": [
+      {
+        "title": "Minnesota Twins COVID-19, BLM Tributes make Home Opener memorable",
+        "url": "https://puckettspond.com/?p=65914",
+        "views": 259
+      }
+    ]
+  },
+  {
+    "id": 20367,
+    "type": "contributor",
+    "name": "Kasey Kuhrts",
+    "userId": "auth0|5eba03c085f3671fe02a2692",
+    "username": "kkuhrts1",
+    "views": 899,
+    "payAmount": 0,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "ineligible",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 0,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": null,
+    "postStats": [
+      {
+        "title": "Minnesota Twins: Starting Rotation Predictions for the 2020 Season",
+        "url": "https://puckettspond.com/?p=65449",
+        "views": 879
+      },
+      {
+        "title": "Ranking the Minnesota Twins First Round Picks of the Last Decade",
+        "url": "https://puckettspond.com/?p=65535",
+        "views": 20
+      }
+    ]
+  },
+  {
+    "id": 20368,
+    "type": "contributor",
+    "name": "David Carey",
+    "userId": "auth0|5f088f6e0382ce0014566b71",
+    "username": "dcarey1",
+    "views": 0,
+    "payAmount": 0,
+    "override": null,
+    "date": "2020-07-01",
+    "status": "ineligible",
+    "vendorId": null,
+    "vertical": "MLB",
+    "siteId": 2,
+    "transactionType": "TODO",
+    "publishCount": 0,
+    "sitePublishCount": 30,
+    "createdAt": 1596833998,
+    "updatedAt": 1596833998,
+    "paymentModel": "full_pc_0820",
+    "siteViews": 38402,
+    "workmarketId": null,
+    "payoutId": null,
+    "invoiceComments": null,
+    "postStats": null
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "data": {
+    "permissions": [
+      { "slug": "can_audit_invoices", "name": "Can Audit Invoices", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_edit_users", "name": "Can Edit Users", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_login_to_all_sites", "name": "Can Login To All Sites", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_manage_contractors", "name": "Can Manage Contractors", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_manage_invoices", "name": "Can Manage Invoices", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_manage_roles", "name": "Can Manage Roles", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_manage_topics", "name": "Can Manage Topics", "createdAt": "2020-03-26T16:44:18.126Z" },
+      { "slug": "can_manage_users", "name": "Can Manage Users", "createdAt": "2020-03-26T16:44:18.126Z" },
+      {
+        "slug": "can_view_contractor_payments",
+        "name": "Can View Contractor Payments",
+        "createdAt": "2020-06-22T20:27:33.274Z"
+      },
+      {
+        "slug": "can_view_own_contractor_payments",
+        "name": "Can View Own Contractor Payments",
+        "createdAt": "2020-06-22T20:22:34.935Z"
+      },
+      { "slug": "can_view_site_analytics", "name": "Can View Site Analytics", "createdAt": "2020-06-22T20:27:45.561Z" },
+      { "slug": "can_view_users", "name": "Can View Users", "createdAt": "2020-03-26T16:44:18.126Z" }
+    ]
+  }
+}

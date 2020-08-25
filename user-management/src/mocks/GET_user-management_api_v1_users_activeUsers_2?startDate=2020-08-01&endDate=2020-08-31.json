@@ -1,0 +1,139 @@
+{
+  "status": "success",
+  "data": {
+    "users": [
+      {
+        "id": "auth0|5eaa1643c78b510006ff9d12",
+        "email": "josh.hill@fansided.com",
+        "displayName": "Josh Hill",
+        "profilePic": "https://fansided.com/files/2018/08/ToAM5d4h_400x400-2.jpg",
+        "sitesMeta": [
+          { "id": "2", "contractor": false, "revShare": "none" },
+          { "id": "229", "contractor": false, "revShare": "none" },
+          { "id": "190", "contractor": true, "revShare": "contributor" },
+          { "id": "308", "contractor": true, "revShare": "site_expert" }
+        ],
+        "lastPublished": "1314303420",
+        "postCount": 0,
+        "pageviews": []
+      },
+      {
+        "id": "auth0|5eaa035f2b8ce900063c0af0",
+        "email": "aaron.somers@fansided.com",
+        "displayName": "Aaron Somers",
+        "profilePic": "http://districtondeck.com/files/2012/04/Aaron-Somers_avatar.JPG",
+        "sitesMeta": [
+          { "id": "95", "contractor": false, "revShare": "none" },
+          { "id": "2", "contractor": false, "revShare": "none" },
+          { "id": "3", "contractor": false, "revShare": "none" },
+          { "id": "4", "contractor": false, "revShare": "none" },
+          { "id": "5", "contractor": false, "revShare": "none" },
+          { "id": "6", "contractor": false, "revShare": "none" },
+          { "id": "7", "contractor": false, "revShare": "none" },
+          { "id": "8", "contractor": false, "revShare": "none" },
+          { "id": "9", "contractor": false, "revShare": "none" },
+          { "id": "11", "contractor": false, "revShare": "none" },
+          { "id": "14", "contractor": false, "revShare": "none" },
+          { "id": "17", "contractor": false, "revShare": "none" },
+          { "id": "21", "contractor": false, "revShare": "none" },
+          { "id": "33", "contractor": false, "revShare": "none" },
+          { "id": "39", "contractor": false, "revShare": "none" },
+          { "id": "40", "contractor": false, "revShare": "none" },
+          { "id": "43", "contractor": false, "revShare": "none" },
+          { "id": "64", "contractor": false, "revShare": "none" },
+          { "id": "65", "contractor": false, "revShare": "none" },
+          { "id": "66", "contractor": false, "revShare": "none" },
+          { "id": "75", "contractor": false, "revShare": "none" },
+          { "id": "80", "contractor": false, "revShare": "none" },
+          { "id": "86", "contractor": false, "revShare": "none" },
+          { "id": "101", "contractor": false, "revShare": "none" },
+          { "id": "107", "contractor": false, "revShare": "none" }
+        ],
+        "lastPublished": "1382364043",
+        "postCount": 0,
+        "pageviews": []
+      },
+      {
+        "id": "auth0|5eaa19acc78b510006ffa3c5",
+        "email": "kyle.franzoni@fansided.com",
+        "displayName": "Kyle Franzoni",
+        "profilePic": "http://jaysjournal.com/files/2013/08/Kyle-Franzoni_avatar.jpg",
+        "sitesMeta": [
+          { "id": "135", "contractor": false, "revShare": "none" },
+          { "id": "39", "contractor": false, "revShare": "none" },
+          { "id": "134", "contractor": false, "revShare": "none" },
+          { "id": "5", "contractor": false, "revShare": "none" },
+          { "id": "66", "contractor": false, "revShare": "none" },
+          { "id": "2", "contractor": false, "revShare": "none" },
+          { "id": "11", "contractor": false, "revShare": "none" },
+          { "id": "14", "contractor": false, "revShare": "none" },
+          { "id": "43", "contractor": false, "revShare": "none" },
+          { "id": "21", "contractor": false, "revShare": "none" },
+          { "id": "141", "contractor": false, "revShare": "none" },
+          { "id": "107", "contractor": false, "revShare": "none" },
+          { "id": "101", "contractor": false, "revShare": "none" },
+          { "id": "65", "contractor": false, "revShare": "none" },
+          { "id": "132", "contractor": false, "revShare": "none" },
+          { "id": "9", "contractor": false, "revShare": "none" },
+          { "id": "64", "contractor": false, "revShare": "none" },
+          { "id": "80", "contractor": false, "revShare": "none" },
+          { "id": "4", "contractor": false, "revShare": "none" },
+          { "id": "33", "contractor": false, "revShare": "none" },
+          { "id": "17", "contractor": false, "revShare": "none" },
+          { "id": "86", "contractor": false, "revShare": "none" },
+          { "id": "3", "contractor": false, "revShare": "none" },
+          { "id": "6", "contractor": false, "revShare": "none" }
+        ],
+        "lastPublished": "1452873257",
+        "postCount": 0,
+        "pageviews": []
+      },
+      {
+        "id": "auth0|5eaa469c489ded000667d3f3",
+        "email": "ottorjohn@gmail.com",
+        "displayName": "Otto Johnson",
+        "profilePic": "https://puckettspond.com/files/2019/06/47a7db24b3127cce9854a63c1a6a00000010100ActmjFm3YtmIA.jpg",
+        "sitesMeta": [{ "id": "2", "contractor": true, "revShare": "site_expert" }],
+        "lastPublished": "1573884016",
+        "postCount": 0,
+        "pageviews": [
+          {
+            "date": "2020-08-01",
+            "views": 700,
+            "username": "ojohnson",
+            "tier": "1",
+            "userId": "auth0|5eaa469c489ded000667d3f3"
+          },
+          {
+            "date": "2020-08-02",
+            "views": 947,
+            "username": "ojohnson",
+            "tier": "1",
+            "userId": "auth0|5eaa469c489ded000667d3f3"
+          },
+          {
+            "date": "2020-08-03",
+            "views": 1732,
+            "username": "ojohnson",
+            "tier": "1",
+            "userId": "auth0|5eaa469c489ded000667d3f3"
+          },
+          {
+            "date": "2020-08-03",
+            "views": 24,
+            "username": "ojohnson",
+            "tier": "3",
+            "userId": "auth0|5eaa469c489ded000667d3f3"
+          },
+          {
+            "date": "2020-08-04",
+            "views": 318,
+            "username": "ojohnson",
+            "tier": "1",
+            "userId": "auth0|5eaa469c489ded000667d3f3"
+          }
+        ]
+      }
+    ]
+  }
+}

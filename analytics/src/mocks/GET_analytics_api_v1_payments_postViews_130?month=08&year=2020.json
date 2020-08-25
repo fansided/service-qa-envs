@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "meta": { "resultsCount": 3 },
+  "data": [
+    {
+      "siteId": 130,
+      "postId": 172352,
+      "guid": "https://arrowheadaddict.com/?p=172352",
+      "username": "kthompson1",
+      "vertical": "NFL",
+      "postTitle": "KC Chiefs: Three alternate mascot names we could live with",
+      "views": 242070,
+      "country": "United States"
+    },
+    {
+      "siteId": 130,
+      "postId": 172353,
+      "guid": "https://arrowheadaddict.com/?p=172353",
+      "username": "kcporkchop",
+      "vertical": "NFL",
+      "postTitle": "Ranking the top five Kansas City Chiefs coaches of all time",
+      "views": 35987,
+      "country": "United States"
+    },
+    {
+      "siteId": 130,
+      "postId": 172404,
+      "guid": "https://arrowheadaddict.com/?p=172404",
+      "username": "mconner1",
+      "vertical": "NFL",
+      "postTitle": "KC Chiefs news: Patrick Mahomes signs 10-year contract extension",
+      "views": 27580,
+      "country": "United States"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "data": {
+    "user": {
+      "id": "auth0|5ebf28115830a90c6fdf1f06",
+      "email": "andrea.self+mcf@fansided.com",
+      "firstName": "McFadden",
+      "lastName": "Test",
+      "fullName": "McFadden Test",
+      "displayName": "McFadden Test",
+      "createdAt": "2020-05-15T23:38:57.896Z",
+      "blocked": false,
+      "profilePic": "https://www.gravatar.com/avatar/550f2574c04d5fb537c9ac5a8b8ae019?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+      "lastLogin": "",
+      "sitesMeta": [],
+      "rolesMeta": [],
+      "instagram": "mcfadden2020",
+      "state": "",
+      "roles": []
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "data": {
+    "user": {
+      "id": "auth0|5e8613a25557070c2ecfa1f6",
+      "email": "system.admin@fansided.com",
+      "firstName": "FanSided",
+      "lastName": "Staff",
+      "fullName": "FanSided Staff",
+      "displayName": "FanSided Staff",
+      "createdAt": "2020-04-02T16:32:34.026Z",
+      "blocked": false,
+      "profilePic": "https://app-dev.fansided.com/media/1588202030388-avatar.png",
+      "lastLogin": "2020-08-04T14:56:39.001Z",
+      "sitesMeta": [
+        { "id": "130", "contractor": false, "revShare": "contributor" },
+        { "id": "0", "contractor": false, "revShare": "none" }
+      ],
+      "rolesMeta": ["site_admin", "system_admin"],
+      "country": "United States",
+      "facebook": "janedoe1",
+      "instagram": "janedoe1",
+      "state": "AZ",
+      "twitter": "@fansided",
+      "wordpressId": "39324",
+      "wordpressUsername": "testUser",
+      "roles": [
+        {
+          "siteId": "4",
+          "slug": "contributor",
+          "name": "Contributor",
+          "type": "primary",
+          "createdAt": "2020-06-26T20:08:37.371Z"
+        },
+        {
+          "siteId": "0",
+          "slug": "system_admin",
+          "name": "System Admin",
+          "type": "primary",
+          "createdAt": "2020-04-02T16:38:21.625Z"
+        }
+      ],
+      "permissions": {
+        "can_audit_invoices": ["0", "4"],
+        "can_edit_users": ["0"],
+        "can_login_to_all_sites": ["0"],
+        "can_manage_contractors": ["0"],
+        "can_manage_invoices": ["0"],
+        "can_manage_roles": ["0"],
+        "can_manage_topics": ["0"],
+        "can_manage_users": ["0"],
+        "can_view_contractor_payments": ["0"],
+        "can_view_own_contractor_payments": ["0", "4"],
+        "can_view_site_analytics": ["0"],
+        "can_view_users": ["0"]
+      }
+    }
+  }
+}

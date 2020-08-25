@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "meta": { "resultsCount": 14 },
+  "data": [
+    { "date": "2020-08-01", "views": 4144, "username": "akaplan", "tier": "1" },
+    { "date": "2020-08-01", "views": 141, "username": "akaplan", "tier": "2" },
+    { "date": "2020-08-01", "views": 118, "username": "akaplan", "tier": "3" },
+    { "date": "2020-08-02", "views": 16274, "username": "akaplan", "tier": "1" },
+    { "date": "2020-08-02", "views": 253, "username": "akaplan", "tier": "2" },
+    { "date": "2020-08-02", "views": 300, "username": "akaplan", "tier": "3" },
+    { "date": "2020-08-03", "views": 5284, "username": "akaplan", "tier": "1" },
+    { "date": "2020-08-03", "views": 45, "username": "akaplan", "tier": "2" },
+    { "date": "2020-08-03", "views": 118, "username": "akaplan", "tier": "3" },
+    { "date": "2020-08-04", "views": 1500, "username": "akaplan", "tier": "1" },
+    { "date": "2020-08-04", "views": 18, "username": "akaplan", "tier": "3" },
+    { "date": "2020-08-04", "views": 22, "username": "akaplan", "tier": "2" },
+    { "date": "2020-08-05", "views": 561, "username": "akaplan", "tier": "1" },
+    { "date": "2020-08-05", "views": 32, "username": "akaplan", "tier": "3" }
+  ]
+}

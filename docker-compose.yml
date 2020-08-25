@@ -1,0 +1,32 @@
+version: "3"
+services:
+  users_api:
+    build:
+      context: ./user-management
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./user-management:/app
+      - /app/node_modules
+    command: npm start
+    ports:
+      - 7000:7000
+  analytics_api:
+    build:
+      context: ./analytics
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./analytics:/app
+      - /app/node_modules
+    command: npm start
+    ports:
+      - 7001:7001
+  payments_api:
+    build:
+      context: ./payments
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./payments:/app
+      - /app/node_modules
+    command: npm start
+    ports:
+      - 7002:7002

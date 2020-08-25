@@ -1,0 +1,11 @@
+{
+  "229": {
+    "2019-04-01": [
+      { "site_id": 229, "date": "2019-04-01", "status": "paid", "invoices": 14, "amount": 3908.4700000000003 }
+    ],
+    "2019-05-01": [
+      { "site_id": 229, "date": "2019-05-01", "status": "error", "invoices": 2, "amount": 19.83 },
+      { "site_id": 229, "date": "2019-05-01", "status": "paid", "invoices": 15, "amount": 3288.16 }
+    ]
+  }
+}

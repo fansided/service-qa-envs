@@ -1,0 +1,493 @@
+{
+  "status": "success",
+  "data": {
+    "users": [
+      {
+        "id": "auth0|5ec84e2792dce80c6f114d50",
+        "email": "burquidi@gmail.com",
+        "firstName": "Betty",
+        "lastName": "Tester",
+        "fullName": "Betty Tester",
+        "displayName": "Betty Tester",
+        "createdAt": "2020-05-22T22:11:51.901Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/a6db9c3d2f240062228d01cfaee50632?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "2020-05-22T23:21:29.194Z",
+        "sitesMeta": [
+          { "id": "229", "contractor": false, "revShare": "none" },
+          { "id": "130", "contractor": false, "revShare": "none" }
+        ],
+        "rolesMeta": ["editor"],
+        "wordpressId": 39447,
+        "wordpressUsername": "bettytester",
+        "roles": [
+          {
+            "siteId": "130",
+            "slug": "contributor",
+            "name": "Contributor",
+            "type": "primary",
+            "createdAt": "2020-06-09T23:21:18.390Z"
+          },
+          {
+            "siteId": "229",
+            "slug": "editor",
+            "name": "Editor",
+            "type": "primary",
+            "createdAt": "2020-06-09T23:13:55.121Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5ebf3769453e230c71cf7294",
+        "email": "andrea.self+appl@fansided.com",
+        "firstName": "Andrea",
+        "lastName": "SelfX",
+        "fullName": "Andrea SelfX",
+        "displayName": "Andrea SelfX",
+        "createdAt": "2020-05-16T00:44:25.194Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/d63d905ea438fe3656188dd874b2bb2d?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": ["editor"],
+        "wordpressId": "39446",
+        "wordpressUsername": "aself1",
+        "country": "United States",
+        "state": "",
+        "roles": [
+          {
+            "siteId": "2",
+            "slug": "editor",
+            "name": "Editor",
+            "type": "primary",
+            "createdAt": "2020-05-16T01:07:32.756Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5ebdd0b0a361c20c74a83bfa",
+        "email": "stephen.greer+test14@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T23:13:52.827Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/73e805a0d207d1866796c3cfd0ffb9f4?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39445",
+        "wordpressUsername": "sgreer8",
+        "country": "United States",
+        "state": "",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebdcfd4449aff0c7fe2d6c3",
+        "email": "stephen.greer+test13@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T23:10:12.473Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/9b69c434f851500d27193a3fa80d56be?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39444",
+        "wordpressUsername": "sgreer7",
+        "country": "United States",
+        "state": "",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebdcf17449aff0c7fe2d487",
+        "email": "stephen.greer+test12@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T23:07:03.349Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/ae8d079ffcf6f659514f28bf180af899?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39443",
+        "wordpressUsername": "sgreer6",
+        "state": "",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebdcda3c033d80c73fad3f5",
+        "email": "stephen.greer+test11@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T23:00:51.711Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/01684cc993389ae5232c5311283c552a?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39442",
+        "wordpressUsername": "sgreer5",
+        "state": "",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebdcd22449aff0c7fe2ce71",
+        "email": "stephen.greer+test10@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T22:58:42.161Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/7a22dec9e150f3302b3dbd0c77710014?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39441",
+        "wordpressUsername": "sgreer4",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebdc4a9c033d80c73faba4b",
+        "email": "stephen.greer+test8@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T22:22:33.825Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/96bb9b0122142b58ee823079a3bb3dba?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39440",
+        "wordpressUsername": "sgreer3",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebdb9db449aff0c7fe293a6",
+        "email": "stephen.greer+test5@fansided.com",
+        "firstName": "Stephen",
+        "lastName": "Greer",
+        "fullName": "Stephen Greer",
+        "displayName": "Stephen Greer",
+        "createdAt": "2020-05-14T21:36:27.322Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/bba6f1c99c39123dceb567bd91327c8d?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "39439",
+        "wordpressUsername": "sgreer2",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebcc335b9863f0c6c2a51f4",
+        "email": "betsyncohen+siteadmin@gmail.com",
+        "firstName": "Betsy",
+        "lastName": "Siteadmin",
+        "fullName": "Betsy Siteadmin",
+        "displayName": "Betsy Siteadmin",
+        "createdAt": "2020-05-14T04:04:05.399Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/61a5f7333f0f306c97c31554b0872e4d?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "2020-05-14T04:10:44.272Z",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": 39436,
+        "wordpressUsername": "betsysiteadmin",
+        "country": "United States",
+        "state": "OH",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebc7b765d888e0c6a824bc8",
+        "email": "stephen.greer+test2@fansided.com",
+        "firstName": "Test",
+        "lastName": "User",
+        "fullName": "Test User",
+        "displayName": "Test User",
+        "createdAt": "2020-05-13T22:57:58.183Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/076a3d7bff87b4c72f37f0ddd8dd85f6?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": 39435,
+        "wordpressUsername": "testuser1",
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebb155562bd5e0c701a4e1c",
+        "email": "newbs@new.io",
+        "firstName": "Newbie",
+        "lastName": "Twobie",
+        "fullName": "Newbie Twobie",
+        "displayName": "Newbie Twobie",
+        "createdAt": "2020-05-12T21:29:57.637Z",
+        "blocked": false,
+        "profilePic": "https://www.gravatar.com/avatar/a7109b5cf7d60482097f6ddca7420764?s=2000&d=https%3A%2F%2Fapp.fansided.com%2Fmedia%2Fdefault-avatar.png",
+        "lastLogin": "",
+        "sitesMeta": [
+          { "id": "130", "contractor": false, "revShare": "none" },
+          { "id": "4", "contractor": false, "revShare": "none" }
+        ],
+        "rolesMeta": ["contributor", "editor"],
+        "wordpressId": 39434,
+        "wordpressUsername": "test",
+        "roles": [
+          {
+            "siteId": "130",
+            "slug": "contributor",
+            "name": "Contributor",
+            "type": "primary",
+            "createdAt": "2020-06-15T20:35:16.545Z"
+          },
+          {
+            "siteId": "4",
+            "slug": "editor",
+            "name": "Editor",
+            "type": "primary",
+            "createdAt": "2020-06-15T21:21:42.722Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5ebaf237d5971f0bf053d967",
+        "email": "stephen.greer+test1@fansided.com",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "fullName": "Jane Doe",
+        "displayName": "Jane Doe",
+        "createdAt": "2020-05-12T19:00:07.073Z",
+        "blocked": false,
+        "profilePic": "https://s.gravatar.com/avatar/0bf61682e87559ab999d2c7270b4aeb1?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fjd.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": 39433,
+        "roles": []
+      },
+      {
+        "id": "auth0|5ebacc023d4b6d0c74a5e507",
+        "email": "shani_m@minutemedia.com",
+        "firstName": "Shani",
+        "lastName": "Merdler",
+        "fullName": "Shani Merdler",
+        "displayName": "Shani Merdler",
+        "createdAt": "2020-05-12T16:17:07.000Z",
+        "blocked": false,
+        "profilePic": "https://s.gravatar.com/avatar/173c2225c2688797d274dc5e592ebe76?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsm.png",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": 39432,
+        "roles": []
+      },
+      {
+        "id": "auth0|5eb45fcc1cc1ac0c1490da57",
+        "email": "testuser@ah.com",
+        "firstName": "Test",
+        "lastName": "User",
+        "fullName": "Test User",
+        "displayName": "Test User",
+        "createdAt": "2020-05-07T19:21:48.673Z",
+        "blocked": false,
+        "profilePic": "https://app-test.fansided.com/media/1589250701120-chiefs-fan.jpg",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "roles": []
+      },
+      {
+        "id": "auth0|5eaaf4ea6b69bc0c12e6a98f",
+        "email": "contributor@fansided.com",
+        "firstName": "Frank",
+        "lastName": "Costanza",
+        "fullName": "MarytheMan",
+        "displayName": "MarytheMan",
+        "createdAt": "2020-04-30T15:55:22.066Z",
+        "blocked": false,
+        "profilePic": "https://app-test.fansided.com/media/1589855555131-5df126b679d7570ad2044f3e.jpeg",
+        "lastLogin": "2020-08-03T13:41:41.701Z",
+        "sitesMeta": [{ "id": "130", "contractor": true, "revShare": "contributor" }],
+        "rolesMeta": ["contributor"],
+        "wordpressId": "39427",
+        "state": "AZ",
+        "twitter": "@marytheman",
+        "bio": "RIP Frank Costanza.",
+        "country": "United States",
+        "facebook": "marytheMan",
+        "instagram": "maryisaMan",
+        "wordpressUsername": "testContrib",
+        "payoneerStatus": "approved",
+        "roles": [
+          {
+            "siteId": "130",
+            "slug": "contributor",
+            "name": "Contributor",
+            "type": "primary",
+            "createdAt": "2020-05-22T21:46:20.948Z",
+            "title": "Arrowhead Expert"
+          },
+          {
+            "siteId": "36",
+            "slug": "contributor",
+            "name": "Contributor",
+            "type": "primary",
+            "createdAt": "2020-05-21T15:54:47.749Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5eaaf4ce1cc1ac0c14771b2c",
+        "email": "editor@fansided.com",
+        "firstName": "Editor",
+        "lastName": "FanSided",
+        "fullName": "Editor FanSided",
+        "displayName": "Editor FanSided",
+        "createdAt": "2020-04-30T15:54:54.194Z",
+        "blocked": false,
+        "profilePic": "https://s.gravatar.com/avatar/fd2be8c1deac30a805410af33bd7b3fd?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fed.png",
+        "lastLogin": "2020-08-03T13:47:20.815Z",
+        "sitesMeta": [{ "id": "229", "contractor": true, "revShare": "none" }],
+        "rolesMeta": ["editor"],
+        "wordpressId": "39429",
+        "bio": "Bio",
+        "wordpressUsername": "testEditor",
+        "roles": [
+          {
+            "siteId": "229",
+            "slug": "editor",
+            "name": "Editor",
+            "type": "primary",
+            "createdAt": "2020-04-02T16:38:21.625Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5eaaf4bb6b69bc0c12e6a8d5",
+        "email": "site.admin@fansided.com",
+        "firstName": "Site Admin",
+        "lastName": "FanSided",
+        "fullName": "Site Admin FanSided",
+        "displayName": "Site Admin FanSided",
+        "createdAt": "2020-04-30T15:54:35.241Z",
+        "blocked": false,
+        "profilePic": "https://s.gravatar.com/avatar/e4893113934fd2227c73866d37a0a487?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+        "lastLogin": "2020-08-06T15:43:33.981Z",
+        "sitesMeta": [
+          { "id": "130", "contractor": false, "revShare": "none" },
+          { "id": "105", "contractor": false, "revShare": "none" },
+          { "id": "36", "contractor": false, "revShare": "none" },
+          { "id": "115", "contractor": false, "revShare": "none" },
+          { "id": "229", "contractor": false, "revShare": "none" },
+          { "id": "27", "contractor": false, "revShare": "none" }
+        ],
+        "rolesMeta": ["site_admin"],
+        "wordpressId": "39430",
+        "wordpressUsername": "testSiteAdmin",
+        "roles": [
+          {
+            "siteId": "105",
+            "slug": "site_admin",
+            "name": "Site Admin",
+            "type": "primary",
+            "createdAt": "2020-05-21T20:03:26.869Z"
+          },
+          {
+            "siteId": "115",
+            "slug": "site_admin",
+            "name": "Site Admin",
+            "type": "primary",
+            "createdAt": "2020-05-21T20:03:32.683Z"
+          },
+          {
+            "siteId": "130",
+            "slug": "site_admin",
+            "name": "Site Admin",
+            "type": "primary",
+            "createdAt": "2020-08-04T16:50:14.948Z"
+          },
+          {
+            "siteId": "229",
+            "slug": "site_admin",
+            "name": "Site Admin",
+            "type": "primary",
+            "createdAt": "2020-04-02T16:38:21.625Z"
+          },
+          {
+            "siteId": "27",
+            "slug": "site_admin",
+            "name": "Site Admin",
+            "type": "primary",
+            "createdAt": "2020-05-21T20:03:39.172Z"
+          },
+          {
+            "siteId": "36",
+            "slug": "site_admin",
+            "name": "Site Admin",
+            "type": "primary",
+            "createdAt": "2020-05-21T20:01:51.247Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5eaaf4a16b69bc0c12e6a883",
+        "email": "system.admin@fansided.com",
+        "firstName": "Sys",
+        "lastName": "Addy",
+        "fullName": "Sys Addy",
+        "displayName": "Sys Addy",
+        "createdAt": "2020-04-30T15:54:09.725Z",
+        "blocked": false,
+        "profilePic": "https://s.gravatar.com/avatar/fd46f23434c789364a6282676fbc9f88?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsy.png",
+        "lastLogin": "2020-08-06T19:04:07.146Z",
+        "sitesMeta": [{ "id": "0", "contractor": false, "revShare": "none" }],
+        "rolesMeta": [],
+        "state": "",
+        "wordpressId": "39428",
+        "bio": "This-o is-o my-o bio. ",
+        "roles": [
+          {
+            "siteId": "0",
+            "slug": "system_admin",
+            "name": "System Admin",
+            "type": "primary",
+            "createdAt": "2020-04-02T16:38:21.625Z"
+          }
+        ]
+      },
+      {
+        "id": "auth0|5eaa5091489ded000667e006",
+        "email": "zzolmer@uoregon.edu",
+        "firstName": "Zack",
+        "lastName": "Zolmer",
+        "fullName": "Zack Zolmer",
+        "displayName": "Zack Zolmer",
+        "createdAt": "2020-04-30T04:14:08.804Z",
+        "blocked": false,
+        "profilePic": "http://aroyalpain.com/files/2015/07/Zack-Zolmer_avatar_1436171211.JPG",
+        "lastLogin": "",
+        "sitesMeta": [],
+        "rolesMeta": [],
+        "wordpressId": "25345",
+        "wordpressUsername": "zzolmer",
+        "registrationDate": 1435282128,
+        "twitter": "Zack_Zolmer",
+        "country": "United States",
+        "state": "CA",
+        "roles": []
+      }
+    ]
+  },
+  "meta": { "start": 0, "limit": 20, "total": 1000, "pages": 50 }
+}

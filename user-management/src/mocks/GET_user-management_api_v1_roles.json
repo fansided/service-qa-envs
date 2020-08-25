@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "data": {
+    "roles": [
+      {
+        "slug": "contributor",
+        "type": "primary",
+        "name": "Contributor",
+        "createdAt": "2020-03-26T16:44:18.126Z",
+        "defaultTitle": "Contributor"
+      },
+      {
+        "slug": "editor",
+        "type": "primary",
+        "name": "Editor",
+        "createdAt": "2020-03-26T16:44:18.126Z",
+        "defaultTitle": "Site Expert"
+      },
+      {
+        "slug": "payments_admin",
+        "type": "secondary",
+        "name": "Payments Admin",
+        "createdAt": "2020-03-26T16:44:18.126Z"
+      },
+      {
+        "slug": "payments_auditor",
+        "type": "secondary",
+        "name": "Payments Auditor",
+        "createdAt": "2020-03-26T16:44:18.126Z"
+      },
+      {
+        "slug": "site_admin",
+        "type": "primary",
+        "name": "Site Admin",
+        "createdAt": "2020-03-26T16:44:18.126Z",
+        "defaultTitle": "Site Admin"
+      },
+      {
+        "slug": "system_admin",
+        "type": "primary",
+        "name": "System Admin",
+        "createdAt": "2020-03-26T16:44:18.126Z",
+        "defaultTitle": "System Admin"
+      }
+    ]
+  }
+}
